@@ -1,6 +1,6 @@
 # eduPLEX
 
-This is the code repository for the eduPLEX website, which hosts videos, articles, and sample problems for AP Computer Science. This uses the [edusite template](https://colorlib.com/wp/template/edusite/) from Colorlib.
+[This](https://edu-plex.github.io/eduplex/) is the code repository for the eduPLEX website, which hosts videos, articles, and sample problems for AP Computer Science.
 
 ## About
 
@@ -15,3 +15,6 @@ Inspired by Sal Khan and Khan Academy, eduPLEX began as a way to provide educati
 ## TODO
 
 The website is currently at [this](https://edu-plex.github.io/eduplex/) domain, but will be updated to our custom domain name shortly.
+
+## Acknowledgements
+This uses the [edusite template](https://colorlib.com/wp/template/edusite/) from Colorlib.
