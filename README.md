@@ -14,4 +14,4 @@ Inspired by Sal Khan and Khan Academy, eduPLEX began as a way to provide educati
 
 ## TODO
 
-The website is currently hosted at `https://edu-plex.github.io/eduplex/`, but will be updated to our custom domain name shortly.
+The website is currently at [this](https://edu-plex.github.io/eduplex/) domain, but will be updated to our custom domain name shortly.
