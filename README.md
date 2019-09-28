@@ -8,6 +8,6 @@ Inspired by Sal Khan and Khan Academy, eduPLEX began as a way to provide educati
 
 ## Our Team
 
-**Faiaz Rahman**, GitHub/Linkedin: faiazrahman.
+**Faiaz Rahman**, GitHub/LinkedIn: faiazrahman.
 
 **Logan Hernandez**, GitHub: logan-hern.
