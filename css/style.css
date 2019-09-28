@@ -591,12 +591,13 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 	-webkit-transform: translate(-50% , calc(-50% - 15px));
 	    -ms-transform: translate(-50% , calc(-50% - 15px));
 	        transform: translate(-50% , calc(-50% - 15px));
-	width:40px;
+	width:100px;
 	height:40px;
 	line-height:40px;
 	text-align:center;
-	border:2px solid #fff;
 	color:#fff;
+	font-style: normal;
+	font-size: 24px;
 	border-radius:50%;
 	opacity:0;
 	z-index:10;
