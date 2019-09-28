@@ -1,2 +1,2 @@
-# eduplex
+# eduPLEX
 eduPLEX site
