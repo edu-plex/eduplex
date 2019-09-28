@@ -1,6 +1,6 @@
 # eduPLEX
 
-[This](https://edu-plex.github.io/eduplex/) is the code repository for the eduPLEX website, which hosts videos, articles, and sample problems for AP Computer Science.
+This is the code repository for the eduPLEX [website](https://edu-plex.github.io/eduplex/), which hosts videos, articles, and sample problems for AP Computer Science.
 
 ## About
 
