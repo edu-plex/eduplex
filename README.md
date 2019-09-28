@@ -1,6 +1,6 @@
 # eduPLEX
 
-This is the code repository for the eduPLEX website, which hosts videos, articles, and sample problems for AP Computer Science.
+This is the code repository for the eduPLEX website, which hosts videos, articles, and sample problems for AP Computer Science. This uses the [edusite template](https://colorlib.com/wp/template/edusite/) from Colorlib.
 
 ## About
 
