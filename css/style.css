@@ -5,7 +5,7 @@ Author: yaminncco
 Colors:
 	Body 		: #798696
 	Headers 	: #374050
-	Primary 	: #FF6700
+	Primary 	: #92ABD7  (PLEX blue)
 	Grey 		: #EBEBEB
 
 Fonts: Lato & Montserrat
@@ -100,7 +100,7 @@ blockquote:before{
 	position:absolute;
 	left:0;
 	top:0;
-	color: #FF6700;
+	color: #92ABD7;
 	width:40px;
 	height:40px;
 	line-height:40px;
@@ -159,7 +159,7 @@ blockquote:before{
 	position:relative;
 	display:inline-block;
 	padding:10px 30px;
-	background-color: #FF6700;
+	background-color: #92ABD7;
 	border: 2px solid transparent;
 	border-radius: 40px;
 	color: #FFF;
@@ -169,8 +169,8 @@ blockquote:before{
 
 .main-button:hover , .main-button:focus {
 	background-color:#fff;
-	border: 2px solid #FF6700;
-	color:#FF6700;
+	border: 2px solid #92ABD7;
+	color:#92ABD7;
 }
 
 .main-button.icon-button:hover , .main-button.icon-button:focus {
@@ -211,7 +211,7 @@ textarea {
 }
 
 input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focus, input[type="number"]:focus, input[type="date"]:focus, input[type="url"]:focus, input[type="tel"]:focus, textarea:focus {
-	border-color:#FF6700;
+	border-color:#92ABD7;
 }
 
 /*------------------------------------*\
@@ -274,7 +274,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 	content:"";
 	display:block;
 	height:2px;
-	background-color:#FF6700;
+	background-color:#92ABD7;
 	width:100%;
 	-webkit-transform: translateY(5px);
 	    -ms-transform: translateY(5px);
