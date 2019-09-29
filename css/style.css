@@ -597,7 +597,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 	text-align:center;
 	color:#fff;
 	font-style: normal;
-	font-size: 24px;
+	font-size: 30px;
 	border-radius:50%;
 	opacity:0;
 	z-index:10;
