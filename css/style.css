@@ -45,6 +45,9 @@ bodytext {
 	font-weight: 400;
 	color: #798696;
 	overflow-x:hidden;
+	display: inline-block; /* makes padding work */
+	padding-top: 15px;
+	padding-bottom: 15px;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -60,10 +63,12 @@ h1 {
 
 h2 {
 	font-size:30px;
+	padding-top: 20px;
 }
 
 h3 {
 	font-size:24px;
+	padding-top: 20px;
 }
 
 h4 {
