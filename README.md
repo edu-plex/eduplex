@@ -12,9 +12,5 @@ Inspired by Sal Khan and Khan Academy, eduPLEX began as a way to provide educati
 
 **Logan Hernandez**, GitHub: logan-hern.
 
-## TODO
-
-The website is currently at [this](https://edu-plex.github.io/eduplex/) domain, but will be updated to our custom domain name shortly.
-
 ## Acknowledgements
 This uses the [edusite template](https://colorlib.com/wp/template/edusite/) from Colorlib.
