@@ -76,9 +76,16 @@ h4 {
 }
 
 a {
-	font-family: 'Lato', sans-serif;
+	/* font-family: 'Lato', sans-serif; */
+	font-family: 'Montserrat', sans-serif;
 	color: #374050;
 	font-weight: 700;
+}
+
+linkintext{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	color: #374050;
 }
 
 a:hover,
