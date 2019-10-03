@@ -617,7 +617,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 	text-align:center;
 	color:#fff;
 	font-style: normal;
-	font-size: 30px;
+	font-size: 24px;
 	border-radius:50%;
 	opacity:0;
 	z-index:10;
@@ -635,6 +635,7 @@ input[type="text"]:focus, input[type="email"]:focus, input[type="password"]:focu
 .course .course-title {
 	display:block;
 	height:42px;
+	font-size: 18px;
 }
 
 .course .course-details {
